@@ -7,4 +7,4 @@
 Usage
 =====
 
-python 160by2API.py -m <Mobile Number> -t <Message>
+python 160by2API.py -m "Mobile Number" -t "Message"
